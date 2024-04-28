@@ -3,13 +3,13 @@ const songs = [
       name: "Kudmayi",
       link: "https://paglasongs.com/files/download/id/14933",
       artists: "Shahid Mallya",
-      image: "https://raw.githubusercontent.com/developergtm24/music-web/main/image%20musuic.jpg"
+      image: "https://github.com/ashifhard/Music-Player/blob/19ef746b9bf11278b4cfac6360f40b3a8d0887fd/image%20musuic.jpg?raw=true"
     },
     {
       name: "Tum Se",
       link: "https://pagalsongs.com.in/siteuploads/files/sfd3/1494/Tum%20Se-(PagalSongs.Com.IN).mp3",
       artists: "Sachin-Jigar",
-      image: "https://raw.githubusercontent.com/developergtm24/music-web/main/image%20musuic.jpg"
+      image: "https://github.com/ashifhard/Music-Player/blob/19ef746b9bf11278b4cfac6360f40b3a8d0887fd/image%20musuic.jpg?raw=true"
     },
   ];
   
