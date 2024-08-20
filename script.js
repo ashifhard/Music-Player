@@ -11,6 +11,24 @@ const songs = [
       artists: "Sachin-Jigar",
       image: "https://github.com/ashifhard/Music-Player/blob/19ef746b9bf11278b4cfac6360f40b3a8d0887fd/image%20musuic.jpg?raw=true"
     },
+     {
+    name: "Big Dawg",
+    link: "https://raag.fm/files/mp3/128/Hindi-Singles/27482/Big%20Dawgs%20-%20(Raag.Fm).mp3",
+    artists: "Hanumanbkind",
+    image: "https://raag.fm/image/250/27482/Big_Dawgs_Hanumankind.jpg"
+  },
+     {
+    name: "Do You KNow",
+    link: "https://raag.fm/files/mp3/128/Hindi-Singles/27449/Do%20U%20Know%20(From%20Khel%20Khel%20Mein)%20-%20(Raag.Fm).mp3",
+    artists: "Diljit Dosanjh",
+    image: "https://raag.fm/image/250/27449/Do_U_Know_(From_Khel_Khel_Mein)_Diljit_Dosanjh.jpg"
+  },
+     {
+    name: "Fuck What They Say",
+    link: "https://pagal-world.com.in/files/download/id/1635",
+    artists: "MC Stan & King",
+    image: "https://pagal-world.com.in/siteuploads/thumb/sft4/1635_4.jpg"
+  },
   ];
   
   var progress = document.querySelector("#progress");
