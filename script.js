@@ -29,6 +29,12 @@ const songs = [
     artists: "MC Stan & King",
     image: "https://pagal-world.com.in/siteuploads/thumb/sft4/1635_4.jpg"
   },
+     {
+    name: "G.O.A.T.",
+    link: "https://cdnsongs.com/music/data/Single_Track/202007/G_O_A_T/128/G_O_A_T_1.mp3",
+    artists: " Diljit Dosanjh",
+    image: "https://cover.mr-jatt.im/thumb/489786/G-O-A-T-1.jpg"
+  },
   ];
   
   var progress = document.querySelector("#progress");
