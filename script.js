@@ -6,10 +6,22 @@ const songs = [
       image: "https://pagalnew.com/coverimages/ucha-lamba-kad-forever-welcome-to-the-jungle-500-500.jpg"
     },
     {
+      name: "Jaiye Sajana ",
+      link: "https://pagalnew.com/128-downloads/53417",
+      artists: "Shahid Mallya",
+      image: "https://pagalnew.com/coverimages/jaiye-sajana-dhurandhar-the-revenge-500-500.jpg"
+    },
+    {
+      name: "911 Porsche",
+      link: "https://pagalnew.com/128-downloads/47010",
+      artists: "Shahid Mallya",
+      image: "https://pagalnew.com/coverimages/ucha-lamba-kad-forever-welcome-to-the-jungle-500-500.jpg"
+    },
+    {
       name: "Bangles",
       link: "https://pagalnew.com/128-downloads/53609",
       artists: "Sanju Rathod",
-      image: "https://pagalnew.com/coverimages/Bangles-Sanju-Rathod-500-500.jpg"
+      image: "https://pagalnew.com/coverimages/911-Porsche-MC-STAN-500-500.jpg"
     },
      {
     name: "Big Dawg",
