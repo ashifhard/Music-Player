@@ -1,7 +1,7 @@
 const songs = [
     {
-      name: "Kudmayi",
-      link: "https://paglasongs.com/files/download/id/14933",
+      name: "dil chahte ho ya ",
+      link: "https://raag.fm/dil-chahte-ho-mp3-song-xv6jd.html",
       artists: "Shahid Mallya",
       image: "https://github.com/ashifhard/Music-Player/blob/19ef746b9bf11278b4cfac6360f40b3a8d0887fd/image%20musuic.jpg?raw=true"
     },
