@@ -8,14 +8,14 @@ const songs = [
     {
       name: "Jaiye Sajana ",
       link: "https://pagalnew.com/128-downloads/53417",
-      artists: "Shahid Mallya",
+      artists: "Satinder Sartaaj, Jasmine Sandlas",
       image: "https://pagalnew.com/coverimages/jaiye-sajana-dhurandhar-the-revenge-500-500.jpg"
     },
     {
       name: "911 Porsche",
       link: "https://pagalnew.com/128-downloads/47010",
-      artists: "Shahid Mallya",
-      image: "https://pagalnew.com/coverimages/ucha-lamba-kad-forever-welcome-to-the-jungle-500-500.jpg"
+      artists: "Mc Stan",
+      image: "https://pagalnew.com/coverimages/911-Porsche-MC-STAN-500-500.jpg"
     },
     {
       name: "Bangles",
