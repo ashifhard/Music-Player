@@ -1,15 +1,15 @@
 const songs = [
     {
-      name: "dil chahte ho ya ",
+      name: "Ucha Lamba Kad Forever ",
       link: "https://pagalnew.com/128-downloads/53893",
       artists: "Shahid Mallya",
       image: "https://pagalnew.com/coverimages/ucha-lamba-kad-forever-welcome-to-the-jungle-500-500.jpg"
     },
     {
-      name: "Tum Se",
-      link: "https://pagalsongs.com.in/siteuploads/files/sfd3/1494/Tum%20Se-(PagalSongs.Com.IN).mp3",
-      artists: "Sachin-Jigar",
-      image: "https://github.com/ashifhard/Music-Player/blob/19ef746b9bf11278b4cfac6360f40b3a8d0887fd/image%20musuic.jpg?raw=true"
+      name: "Bangles",
+      link: "https://pagalnew.com/128-downloads/53609",
+      artists: "Sanju Rathod",
+      image: "https://pagalnew.com/coverimages/Bangles-Sanju-Rathod-500-500.jpg"
     },
      {
     name: "Big Dawg",
@@ -25,9 +25,9 @@ const songs = [
   },
      {
     name: "Fuck What They Say",
-    link: "https://pagal-world.com.in/files/download/id/1635",
+    link: "https://pagalnew.com/128-downloads/48019",
     artists: "MC Stan & King",
-    image: "https://pagal-world.com.in/siteuploads/thumb/sft4/1635_4.jpg"
+    image: "https://pagalnew.com/coverimages/fck-what-they-say-monopoly-moves-500-500.jpg"
   },
      {
     name: "G.O.A.T.",
