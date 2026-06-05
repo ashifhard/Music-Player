@@ -1,9 +1,9 @@
 const songs = [
     {
       name: "dil chahte ho ya ",
-      link: "https://raag.fm/dil-chahte-ho-mp3-song-xv6jd.html",
+      link: "https://pagalnew.com/128-downloads/53893",
       artists: "Shahid Mallya",
-      image: "https://github.com/ashifhard/Music-Player/blob/19ef746b9bf11278b4cfac6360f40b3a8d0887fd/image%20musuic.jpg?raw=true"
+      image: "https://pagalnew.com/coverimages/ucha-lamba-kad-forever-welcome-to-the-jungle-500-500.jpg"
     },
     {
       name: "Tum Se",
